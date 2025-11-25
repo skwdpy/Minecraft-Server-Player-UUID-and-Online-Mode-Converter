@@ -1,4 +1,4 @@
-**中文** | [English](README-en.md) <!-- lang -->
+**中文** | [English](README_en.md) <!-- lang -->
 # Minecraft服务器玩家UUID和在线模式转换器
 
 ## 📖 简介
@@ -47,4 +47,4 @@
 5. 在Python下运行`MCServer UUID and Online-mode Conventer.py`即可
 
 ## 📄相关文档
-  -  [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - 有关`Info.json`的详细说明
+   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - 有关`Info.json`的详细说明
