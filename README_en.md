@@ -45,5 +45,10 @@ There are three files in the directory:
           
 5.  Run `MCServer UUID and Online-mode Conventer.py` with Python.
 
+## ❔ Question & Answer
+   * Q: Which file extensions support modifying the player UUID file name?
+
+     A: `.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`
+
 ## 📄 Documentation
   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki/Info.json-File-Parameters-Detailed-Explanation) - Detailed instructions for configuring `Info.json`.
