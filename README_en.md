@@ -43,7 +43,7 @@ There are three files in the directory:
       * `player` contains player information. Here you need to fill in the player's nickname (`name`), their UUID when `online-mode=true` (`Online_uuid`), and their UUID when `online-mode=false` (`Offline_uuid`).
   
           
-5.  Run `MCServer UUID and Online-mode Conventer.py` using Python.
+5.  Run `MCServer UUID and Online-mode Conventer.py` with Python.
 
 ## 📄 Documentation
   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - Detailed instructions for configuring `Info.json`.
