@@ -3,7 +3,7 @@
 # Minecraft Server Player UUID and Online Mode Converter
 
 ## 📖 Introduction
-When we run our own JAVA Minecraft server, we sometimes encounter this problem: All players are using official Minecraft accounts, and the server has `online-mode` set to `true` by default. A player without an official account becomes very interested in the server and wants to join. To allow this player to join, `online-mode` must be set to `false`. This creates a new issue: the original players will lose their inventory items, advancements, and (if FTB-related mods are present) FTB quests, team data, etc., forcing them to start over.
+When we run our own JAVA Minecraft server, we sometimes encounter this problem: All players are using official Minecraft accounts, and the server has `online-mode` set to `true` by default. A player without an official account becomes very interested in the server and wants to join. To allow this player to join, `online-mode` must be set to `false`. This creates a new issue: the original players will lose their inventory items, advancements, and FTB quests, team data, etc.(if FTB-related mods are present), forcing them to start over.
 
 The solution to this problem is to modify all files within the server that contain player UUIDs, changing the players' online UUIDs to their corresponding offline UUIDs.
 
@@ -24,7 +24,7 @@ There are three files in the directory:
 
 ## 🔑 How to Use
 
-1.  **Shut down and BACK UP your entire server and its world save folder!!!** (If your world or server gets corrupted due to using this tool without a backup, you must bear the consequences!!!)
+1.  **Shut down and BACK UP your entire server and its world save folder!!!** (If your save or server gets corrupted due to using this tool without a backup, you must bear the consequences!!!)
   
 2.  Install the latest version of Python.
    
