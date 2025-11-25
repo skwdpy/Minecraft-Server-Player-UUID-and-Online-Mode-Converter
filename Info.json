@@ -1,0 +1,43 @@
+{
+    "root_dir":"XXXXX",
+    "changeUUID_folder_name":
+    [
+        {
+            "name":"world/advancements",
+             "change_content":false
+        },
+        {
+            "name":"world/playerdata",
+             "change_content":false
+        },
+        {
+            "name":"world/stats",
+             "change_content":false
+        },
+        {
+            "name":"world/ftbchunks",
+             "change_content":true
+        },
+        {
+            "name":"world/ftbquests",
+             "change_content":true
+        },
+        {
+            "name":"world/ftbteams/party",
+             "change_content":true
+        },
+        {
+            "name":"world/ftbteams/player",
+             "change_content":true
+        }
+    ],
+
+    "player":
+        [
+        {
+            "name": "Example_name",
+            "Online_UUID":"00000000-0000-0000-0000-000000000000",
+            "Offline_UUID":"00000000-0000-0000-0000-000000000000"
+        }
+        ]
+}
