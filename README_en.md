@@ -20,7 +20,7 @@ There are three files in the directory:
     *   **Optional**. This is the code I wrote myself (therefore the comments are in Chinese). It can be used for switching UUIDs and Online-Mode on a vanilla server. However, the code is not very elegant, uses many if-elif statements, and lacks error detection. You can use it to learn the algorithmic approach, but it's not recommended for beginners.
 
 3.  `MCServer UUID and Online-mode Conventer.py`
-    *   **Required and Recommended**. This file is modified from `MCServer UUID and Online-mode Conventer_vanilla.py`, with enhanced requirements and improved using DeepSeek (comments are in English). It features output logs and error detection, and can perform the switch for both vanilla and modded servers based on your needs.
+    *   **Required and Recommended**. This file is modified from `MCServer UUID and Online-mode Conventer_vanilla.py`, with enhanced requirements and improved with DeepSeek (comments are in English). It features output logs and error detection, and can perform the switch for both vanilla and modded servers based on your needs.
 
 ## 🔑 How to Use
 
