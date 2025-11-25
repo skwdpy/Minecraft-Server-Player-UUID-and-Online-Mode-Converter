@@ -22,7 +22,7 @@
 
 2. `MCServer UUID and Online-mode Conventer.py`
 
-    *   **必须也推荐**，此文件基于`MCServer UUID and Online-mode Conventer_vanilla.py`修改而成，增加了需求，并借助DeekSeek进行完善（注释为英文），有输出日志和错误检测，可以根据需求对原版服或模组服进行切换
+    *   **必须且推荐**，此文件基于`MCServer UUID and Online-mode Conventer_vanilla.py`修改而成，增加了需求，并借助DeekSeek进行完善（注释为英文），有输出日志和错误检测，可以根据需求对原版服或模组服进行切换
 
 ## 🔑如何使用
 
@@ -47,4 +47,4 @@
 5. 在Python下运行`MCServer UUID and Online-mode Conventer.py`即可
 
 ## 📄相关文档
-   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - 有关`Info.json`的详细说明
+   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - 有关`Info.json`文件的详细说明
