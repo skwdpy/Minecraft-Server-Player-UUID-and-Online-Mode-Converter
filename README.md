@@ -47,4 +47,4 @@
 5. 在Python下运行`MCServer UUID and Online-mode Conventer.py`即可
 
 ## 📄 相关文档
-   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki/zh) - 有关`Info.json`文件的详细说明
+   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki/Info.json文件参数详解) - 有关`Info.json`文件的详细说明
