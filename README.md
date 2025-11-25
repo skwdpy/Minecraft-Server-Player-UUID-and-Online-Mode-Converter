@@ -8,7 +8,7 @@
 
 这个转换器就是起这个作用的！它可以在切换`Online-Mode`的同时按照你配置好的信息切换修改玩家UUID相关的文件。
 
-## 🔩文件说明
+## 🔩 文件说明
 
 目录中有三个文件：
 
@@ -24,7 +24,7 @@
 
     *   **必须且推荐**，此文件基于`MCServer UUID and Online-mode Conventer_vanilla.py`修改而成，增加了需求，并借助DeekSeek进行完善（注释为英文），有输出日志和错误检测，可以根据需求对原版服或模组服进行切换
 
-## 🔑如何使用
+## 🔑 如何使用
 
 1. **关闭并备份你的服务器以及world存档文件夹！！！**（如果因没有备份服务器以及存档文件而使用本工具造成的存档损坏不能修以及服务器损坏不能修复，请自行承担后果！！！）
 
@@ -46,5 +46,5 @@
 
 5. 在Python下运行`MCServer UUID and Online-mode Conventer.py`即可
 
-## 📄相关文档
+## 📄 相关文档
    * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - 有关`Info.json`文件的详细说明
