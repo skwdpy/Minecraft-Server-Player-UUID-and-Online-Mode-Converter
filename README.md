@@ -47,8 +47,9 @@
 5. 在Python下运行`MCServer UUID and Online-mode Conventer.py`即可
 
 ## ❔ 问与答
-   * Q:支持修改玩家UUID文件名的文件后缀有哪些？
-     A:`.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`
+   * Q: 支持修改玩家UUID文件名的文件后缀有哪些？
+     
+     A: `.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`
 
 ## 📄 相关文档
    * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki/Info.json文件参数详解) - 有关`Info.json`文件的详细说明
