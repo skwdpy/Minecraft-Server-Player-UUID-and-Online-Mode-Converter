@@ -41,7 +41,9 @@
 
     - `player`是玩家信息，这里你需要填写玩家的昵称（name），`Online-Mode=true`时的玩家UUID（`Online_uuid`），以及`Online-Mode=false`时的玩家UUID（`Offline_uuid`）。
 
+   *可参考wiki中对`Info.json`的介绍来配置
+      
 5. 在Python下运行`MCServer UUID and Online-mode Conventer.py`即可
 
 ## 📄相关文档
-  `[wiki]
+  -  [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki) - 有关`Info.json`的详细说明
