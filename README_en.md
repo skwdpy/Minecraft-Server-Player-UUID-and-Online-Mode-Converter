@@ -48,7 +48,7 @@ There are three files in the directory:
 ## ❔ Question & Answer
    * Q: Which file extensions support modifying the player UUID file name?
 
-     A: `.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`
+     A: `.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`.
      
    * Q: Why don't the maids in the Touhou Little Maid mod recognize their master after using this conversion tool?
 
