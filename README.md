@@ -51,5 +51,9 @@
      
      A: `.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`
 
+   * Q: 为什么在使用这个转换工具后车万女仆模组中的女仆不认主人了？
+     
+     A: 车万女仆模组中的女仆有一个专门的nbt来绑定玩家。本工具只能修改常规文本类文件，无法深入存档文件去修改nbt，因为这需要专用的nbt编辑器。
+
 ## 📄 相关文档
    * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki/Info.json文件参数详解) - 有关`Info.json`文件的详细说明
