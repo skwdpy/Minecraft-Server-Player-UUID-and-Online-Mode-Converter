@@ -49,6 +49,10 @@ There are three files in the directory:
    * Q: Which file extensions support modifying the player UUID file name?
 
      A: `.json`，`_cyclic.dat`，`.dat`，`.dat_old`，`.snbt`
+     
+   * Q: Why don't the maids in the Touhou Little Maid mod recognize their master after using this conversion tool?
+
+     A: The maids in the Touhou Little Maid mod have a specific NBT tag to bind them to a player. This tool can only modify regular text-based files and cannot go deep into save files to modify NBT data, as that would require a dedicated NBT editor.
 
 ## 📄 Documentation
   * [wiki](https://github.com/skwdpy/Minecraft-Server-Player-UUID-and-Online-Mode-Converter/wiki/Info.json-File-Parameters-Detailed-Explanation) - Detailed instructions for configuring `Info.json`.
